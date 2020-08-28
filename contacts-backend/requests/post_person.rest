@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+  "name": "TEST VALIDATE",
+  "number": "+1(245)3."
+}
